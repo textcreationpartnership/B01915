@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the masters, wardens, assistants, and commonalty of the art or mystery of Fishermen of the River of Thames truly stated, and humbly offered to the consideration of the Honourable the knights, citizens, and burgesses in Parliament assembled.</title>
+            <author>Company of Free-Fishermen of the River of Thames.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01915</idno>
+            <idno type="STC">Wing C1115AA</idno>
+            <idno type="STC">ESTC R176349</idno>
+            <idno type="EEBO-CITATION">53981615</idno>
+            <idno type="OCLC">ocm 53981615</idno>
+            <idno type="VID">180146</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01915)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180146)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2818:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the masters, wardens, assistants, and commonalty of the art or mystery of Fishermen of the River of Thames truly stated, and humbly offered to the consideration of the Honourable the knights, citizens, and burgesses in Parliament assembled.</title>
+                  <author>Company of Free-Fishermen of the River of Thames.</author>
+                  <author>Worshipful Company of Fishmongers (London, England)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Imperfect: creased with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Company of Free-Fishermen of the River of Thames --  Early works to 1800.</term>
+               <term>Worshipful Company of Fishmongers (London, England) --  Early works to 1800.</term>
+               <term>Fisheries --  England --  London --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:180146:1" rendition="simple:additions"/>
+            <head>The <hi>CASE</hi> of the Maſters, Wardens, Aſſiſtants, and Commonalty of the Art or Myſtery of Fiſhermen of the River of <hi>Thames</hi> truly ſtated, and humbly offered to the Conſideration of the Honourable the Knights, Citizens, and Burgeſſes in Parliament Aſſembled.</head>
+            <p>THe Free Fiſhermen of the River of <hi>Thames</hi> were Incorporated and made a Company by King <hi>Charles</hi> the Firſt, in the tenth year of his Reign, but ever oppoſed and endeavoured to be ſuppreſt by the Company of Fiſhmongers of the City of <hi>London;</hi> to prevent which, and for the better ſupport of the Com<g ref="char:EOLhyphen"/>pany of Fiſhermen, to the intents and purpoſes hereafter mentioned,</p>
+            <p>The late King <hi>James</hi> the II. by Charter in the third year of his Reign, did Incorporate ſeveral perſons, by the name of Maſter, Wardens, Aſſiſtants and Commonalty of the Art or Myſtery of Fiſhermen of the River of <hi>Thames,</hi> and all the then Inhabitants in the Counties of <hi>Middleſex, Surry, Eſſex,</hi> and <hi>Kent,</hi> and in the City of <hi>London,</hi> and that ſhould inhabit in the ſaid Counties and City, or any of them, uſing, or that ſhould uſe, the Craft of Fiſhing in the River of <hi>Thames</hi> and places adjacent, from the Stone called <hi>London Mark-ſtone</hi> weſtward of <hi>Stains-bridge,</hi> to <hi>Yeandall</hi> alias <hi>Yeanlet,</hi> and Waters of <hi>Medway,</hi> to the Liberties of the City of <hi>Rocheſter,</hi> and all other places from the <hi>North-foreland</hi> in <hi>Kent</hi> to <hi>Harwich</hi> in <hi>Eſſex,</hi> with power to make By-laws for the better governing the ſaid Company, Which, when confirmed by the Lord Mayor and Court of Aldermen of the City of <hi>London,</hi> and Judge of his Majeſtys Court of Admiralty, are binding to all the Members of the ſaid Company; and in which Charter is contained as followeth.</p>
+            <list>
+               <item>1. The ſaid Charter is declared to be granted, that the ſaid Company ſhould take care that the Fry and Spawn of Fiſh in the ſaid River be not deſtroyed.</item>
+               <item>2. That the Goods brought and conveyed upon and thro the ſaid Rivers into this Realm, or intended to be carried out of the ſame, the Cuſtoms not being paid, may the better be diſcovered to thoſe whom it concerneth for the performance of which. The Maſter and Wardens of the ſaid Company yearly enter into Bond to the King, of two hundred Marks penalty, that no perſon of the ſaid Company ſhall put on board of any Veſſel, or take into his Boat out of any Veſſel, any goods for which the Cuſtom is not paid, but ſhall give notice to the Cuſtom-houſe Officers thereof.</item>
+               <item>3. Every perſon of the ſaid Company who ſhall take up any Anchors, Cables, Boats, Maſts, Yards, Flotſon, Jetzou, Lagon, or other goods, ſhall preſent them to the Company, and they to the Lord Mayor of the City of <hi>London,</hi> and Judge of the Admiralty Court, that the ſame may be reſtored.</item>
+               <item>4. The ſaid Company is to take care that no Fiſh ſhall be tranſported by any Member thereof, or ſold to be tranſported, during ſuch time the ſame ſhall be prohi<g ref="char:EOLhyphen"/>bited by the King, or any ſix Lords of his Privy Council.</item>
+               <item>5. The ſaid Company to take care no foreign Fiſh prohibited by Law be Imported.</item>
+               <item>6. The ſaid Company to endeavour to prevent the Ingroſſing of Fiſh, and fore-ſtalling the publick Fiſh-markets that ſupply the City of <hi>London,</hi> by acquainting the Juſtices of Peace therewith, that the offenders may be puniſhed.</item>
+            </list>
+            <p>Purſuant to the authority of which Charter, ſeveral By-Laws have been made by the ſaid Company, and after great conſideration and debate, have been confirmed by the Lord Mayor and Court of Aldermen, and the Judge of his Majeſties High Court of Admiralty, and approved on by ſeveral of the Judges of his Majeſties Courts of <hi>Kings-bench</hi> and <hi>Common Pleas:</hi> Some to the purpoſe following.</p>
+            <list>
+               <item>1. The By-laws of the ſaid Company have aſſertained the Seaſons and Methods of Fiſhing for all ſorts of Fiſh within their Limits, the Size of Nets, and Fiſh to be taken therewith, and inflicts Penalties and Forfeitures on ſuch as offend.</item>
+               <item>2. The By-laws injoin the Members of the Company to go with, and aſſiſt perſons deputed to ſurvey the ſaid Rivers from time to time, to ſeize and cut all unlawful Nets, and to preſent Offenders to the next Court of Aſſiſtants of the ſaid Company, in order to be puniſhed for the ſame.</item>
+               <item>3. The By-laws require every perſon, when admitted a Free man of the ſaid Company, to take an Oath of Allegiance to the King, and that he will not ſmuggle or carry any uncuſtomed or prohibited Goods, or know the ſame to be done by any other without diſcovering the ſame.</item>
+               <item>4. The By-laws require every perſon of the ſaid Company who ſhall be thought fit by a Court of Aſſiſtants for his Majeſties Service at Sea, ſhall make his Appearance on Summons at the Company's Hall, fitted with Cloaths and other Neceſſaries to be ſhipped for his Majeſties Service under the Penalty of five Pound; and the ſaid Com<g ref="char:EOLhyphen"/>pany hath upon Orders raiſed five hundred men in a ſhort time.</item>
+            </list>
+            <p>By which Inſtances (amongſt many others might be given) it may appear how very ſerviceable the ſaid Company is, and may be to the King, and uſeful to the Publick: and that it might be more ſo,</p>
+            <p>The ſaid Company humbly Petitioned this Honorable Houſe, that there being a <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> endeavouring to be paſſed, for Incouraging of Sea-men, by Regiſtring them; the Maſter, Wardens and Aſſiſtants of the ſaid Company might be permitted and impowered by the ſaid Act to Regiſter an <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and their Servants, within the limits of their Company, in ſuch methods, and to ſuch intents and purpoſes as the ſaid Act ſhall direct and appoint: By which,</p>
+            <list>
+               <item>1. The ſaid Company will diſcover ſome thouſands of Fiſhermen and Dredgermen, which ſtand in Contempt of their Company, and Offend daily againſt the ſaid Charter and By-Laws, and run out of the way, and ſculk and abſcond themſelves, when the King hath occaſion for them.</item>
+               <item>2. The Company will be able, as Orders ſhall be given to them, in a very ſhort time, and with little Charge to the King, to ſupply the Royal Fleet yearly with 2000 good Seamen.</item>
+               <item>3. The ſaid Company will be able the better to obſerve and perform the aforeſaid intents and directions, contained in their ſaid Charter and By-Laws. But the Company finding two Petitions delivered in oppoſition to their Petition, beg leave to make theſe following Remarks, in Anſwer to them.</item>
+            </list>
+            <p>The firſt Petition againſt the ſaid Company s Petition is in the name of the Fiſhmongers Company of <hi>London.</hi>
+            </p>
+            <p>
+               <hi>Obſerve,</hi> The Fiſhmongers Company have ever ſince the Fiſhermen have been Incorporated endeavoured to ruin their Company and inſlave their Members, and rate Fiſh to what extravagant price they pleaſe: as the ſame hath been Reported by the Lord Mayor and Court of Aldermen to the King and Council, upon a Reference on a Petition of the Fiſhermens Company, againſt the ſaid Fiſhmongers evil practices of Engroſſing and Foreſtalling the Markets of Fiſh, and Combining to take all Fiſh coming, or that comes to <hi>London,</hi> and dividing the ſame amongſt themſelves by Lotts, and preventing the ſame being ſold in Markets as they ought to be, and by that means raiſing the price of Fiſh near two thirds more than it would be, if the ſame were diſpoſed of as by Law it ought, and when they have taken whole Cargo's of Fiſh from the Fiſhermen, making them take what rate they pleaſe for the ſame.</p>
+            <p>
+               <hi>Obſerve.</hi> The ſaid Fiſhmongers at this time, as appears by printed papers, put out in the names of <hi>Thomas Hutchins, Edward Newport</hi> and <hi>William Ellis,</hi> are under a Combination to monopolize all Salmon into their hands, to prevent which the ſaid perſons, in the ſaid Paper, ſet forth ſeveral places where perſons may be furniſhed with Salmon, at reaſonable rates by the pound, on ſeveral days in the week.</p>
+            <p>Therefore it cannot be wondered at, that the ſaid Fiſhmongers Company do endavour to prevent any thing that may tend to the ſupport and advantage of the ſaid Fiſhermens Company, to prevent their reducing them to their ancient and legal way of Trading, and thereby making Fiſh plentiful and cheap in all parts of the Town; and their being nothing in their Petition of any weight alledged againſt the ſaid Fiſhermens Company, it's hoped the ſame will have no effect, unleſe it be to induce the Honourable Houſe of Commons to grant the ſaid Fiſhermens Company what, to the Ends and Intents aforeſaid, they humbly deſire.</p>
+            <p>The ſecond Petition againſt the ſaid Company of Fiſhermens Petition is under the hands of ſeveral Members of the ſaid Company, and at firſt may ſeem ſtrange, but will be of no force on the conſiderations following.</p>
+            <list>
+               <item>1. The ſaid Petition was ſollicited, and obtained by the contrivance, and at the inſtigation of ſome of the Fiſhmongers Company, in hopes thereby to ſeem to de<g ref="char:EOLhyphen"/>vide the Members of the ſaid Company, and protect themſelves in the continuing their aforeſaid practices by ſuch deviſion.</item>
+               <item>2. All, or moſt of the Perſons whoſe Names are ſubſcribed to the ſaid Petition, have been frequently, and are Offenders againſt the Charter and By-laws of the ſaid Company, and divers times have been preſented, convicted, and puniſhed for the ſame; and it may juſtly be feared are drawn in by the ſaid Fiſhmongers, in hopes to throw off from themſelves all Regulation and Government over them, that they may make what Deſtruction of Fiſh, and commit what Nuzences and other Miſde<g ref="char:EOLhyphen"/>meanors in the ſaid Rivers they pleaſe.</item>
+            </list>
+            <p>All which matters being conſidered, 'tis humbly hoped, that the Honourable Houſe of Commons, by a Clauſe in the Bill for Regiſtring of Seamen, will permit and authorize the Maſter, Wardens, and Aſſiſtants, for the time being, to regiſter all Fiſhermen, Dregermen, and their Servants, within the Limits of their Charter, in ſuch methods to ſuch purpoſes as the ſaid Bill ſhall direct and appoint any other Seafaring Men to be Regiſterd; it being not to be doubted, that the Right Honourable the Lord Marquis of <hi>Carmarthen,</hi> now Maſter of the ſaid Fiſhermens Company, will ſupply his Majeſties Royal Fleet with Men able and fit for that Service out of the ſaid Company, as occaſion ſhall require.</p>
+            <p>All which Matters are humbly ſubmitted to the Conſideration of this Honourable Houſe.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
